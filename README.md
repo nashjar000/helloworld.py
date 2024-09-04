@@ -11,6 +11,5 @@ The tool I used for this software was VS Code, which is a free app used for writ
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Python](https://www.python.org/downloads/)
